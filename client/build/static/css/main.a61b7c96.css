@@ -98,7 +98,8 @@
   justify-content: center;
   background-color: #faf3f0;
   padding: 100px;
-  padding-bottom: 100px;
+  padding-bottom: 130px;
+
   flex-direction: column;
 }
 .form {
